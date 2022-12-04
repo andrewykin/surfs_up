@@ -1,7 +1,7 @@
 # surfs_up
 
 ## Overview of the Analysis
-Using Python, Pandas functions, SQLiteand SQLAlchemy analyze temperature trends in Oahu to help W. Avy decide if his surf & ice cream shop is sustainable year-round.
+Using Python, Pandas functions, SQLite, and SQLAlchemy analyze temperature trends in Oahu to help W. Avy decide if his surf & ice cream shop is sustainable year-round.
 
 ## Results
 ![june_temps](Resources/june_summary_stats.png)
